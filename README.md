@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fearinnoculum
-- 👀 I’m interested in Metaverse & Web 3.0
+- 👀 I’m interested in Metaverse & Web 3.0 & Data Science & Python
 - 🌱 I’m currently learning Python & GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ; lateralus1741@gmail.com
